@@ -1,0 +1,9 @@
+node_modules
+.vscode
+TODO
+develop.env
+testing.env
+production.env
+custom.js
+L-Aura.bot
+.DS_Store
