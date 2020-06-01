@@ -1,1 +1,1 @@
-worker: node .\environments\prd.js
+worker: node .\index.js
