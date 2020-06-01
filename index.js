@@ -22,5 +22,5 @@ client.on('message', (message)=>{
         message.channel.send(`Hola ${message.author}`);
     }
 })
-
+console.log('TOKEN',TOKEN_DISCORD)
 client.login(`${TOKEN_DISCORD}`);
