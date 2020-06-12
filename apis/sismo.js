@@ -1,8 +1,5 @@
-const { TOKEN_WEATHER, URL_WEATHER } = require("../name_keys");
-const fetch = require("node-fetch");
-
 module.exports = {
-  async getWeather(location) {
+  async getEarthQuake(location) {
     if (location) {
       return await fetch(
         `${URL_WEATHER}${location},cl&lang=ES&units=metric&&APPID=${TOKEN_WEATHER}`

@@ -9,10 +9,17 @@
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "pretty-quick": "^2.0.1"
   },
   "devDependencies": {
-    "husky": "^4.2.5"
+    "husky": "^4.2.5",
+    "prettier": "2.0.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
