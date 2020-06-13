@@ -11,10 +11,10 @@
 1.  Hacer un Git Clone del proyecto `git clone git@github.com:bybastiian/basbot-discord.git`
 2.  Dentro del proyecto escribir en consola `npm install` para instalar todos los paquetes necesarios
 
-### **Adventencia**⚠️
+### Adventencia⚠️
 
 - Debes crear o tener un archivo enviroment con sus correspondientes variables para para iniciar el proyecto
 
 ## Ejecutar el proyecto ⭐️
 
-- Debes ejecutar en el terminal dentro del proyecto el comando "npm start"
+- Debes ejecutar en el terminal dentro del proyecto el comando `npm start`
