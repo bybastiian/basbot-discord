@@ -7,7 +7,7 @@
     "bip": "^3.0.2",
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemon": "^2.0.4",
     "path": "^0.12.7",
     "pretty-quick": "^2.0.1"
